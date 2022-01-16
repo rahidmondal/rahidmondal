@@ -13,6 +13,8 @@
 
 </div>
 
+
+
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
@@ -20,7 +22,9 @@
     <p>I wanted to be Computer Science and Ethics Student .<p>
 </div>
 
+
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
+
 
 <div align="center">
     <h2>Tools and Technologies</h2>
@@ -34,14 +38,17 @@
 ![Sumblime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 </div>
+
+
 <!-----------------------------------------------------Stats--------------------------------------------------------------->
 <div align ="center">
-    <h2>Stats<h/2>
+    <h2> Stats </h2>
         
 ![Badge](https://github-readme-stats.vercel.app/api?username=rahidmondal)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=rahidmondal)
 <!--[FUL](https://github-readme-stats.vercel.app/api/top-langs/?username=rahidmondal)-->
 ![Dta](https://activity-graph.herokuapp.com/graph?username=rahidmondal&theme=minimal)
+
 
     
  <!------------------------------------------------------Thank------------------------------------------------------------------->   
