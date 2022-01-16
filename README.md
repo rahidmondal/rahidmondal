@@ -1,9 +1,5 @@
 <!-------------------------------------------------------Hey, I'am Rahid ------------------------------>
-<div align="center">
-    <h1>Hey, I'm <a href="https://twitter.com/rahidmondal_" target="_blank">Rahid Mondal </a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
-</div>
-
+<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Rahid+Mondal></p>
 <!----------------------------------------------------Social Media------------------------------------------->
 
 <div align="center">
@@ -35,3 +31,7 @@
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    
+    
+    
+ <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Thanks+For+Viewing+my+Github+Profile></p>
