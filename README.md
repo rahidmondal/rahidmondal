@@ -34,4 +34,4 @@
     
     
     
- <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Thanks+For+Viewing+my+Github+Profile></p>
+ <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Thanks+For+Visiting+my+Github+Profile></p>
