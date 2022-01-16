@@ -28,10 +28,12 @@
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-
-
+    
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     
+![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Sumblime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
     
     
+ <!------------------------------------------------------Thank------------------------------------------------------------------->   
  <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Thanks+For+Visiting+my+Github+Profile></p>
