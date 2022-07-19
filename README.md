@@ -45,8 +45,7 @@
         
 ![Badge](https://github-readme-stats.vercel.app/api?username=rahidmondal)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=rahidmondal)
-<!--[FUL](https://github-readme-stats.vercel.app/api/top-langs/?username=rahidmondal)-->
-![Dta](https://activity-graph.herokuapp.com/graph?username=rahidmondal&theme=minimal)
+
 
 
     
