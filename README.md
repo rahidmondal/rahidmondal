@@ -17,7 +17,9 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
-    <p>I am Rahid Mondal , Currently a Stdent <br> I am exploring the world of Computer Science with speacial interest in how IT-enabled services can improve our Daily Lifes. <br> I am also interested in cyber law and digital ethics. 
+    <p>I am Rahid Mondal, Currently a Student <br>
+I am exploring the world of Computer Science with a special interest in how IT-enabled services can improve our daily lives.<br>
+I am also interested in cyber law and digital ethics.
     </p>
 </div>
 
