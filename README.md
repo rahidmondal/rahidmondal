@@ -17,8 +17,8 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
-    <p>I am Rahid Mondal, currently in Final Year of HighSchool.</p>
-    <p>I wanted to be Computer Science and Ethics Student .<p>
+    <p>I am Rahid Mondal , Currently a Stdent <br> I am exploring the world of Computer Science with speacial interest in how IT-enabled services can improve our Daily Lifes. <br> I am also interested in cyber law and digital ethics. 
+    </p>
 </div>
 
 
