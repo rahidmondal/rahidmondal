@@ -1,5 +1,4 @@
 <!-------------------------------------------------------Hey, I'am Rahid ------------------------------>
-<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Rahid+Mondal></p>
 <!----------------------------------------------------Social Media------------------------------------------->
 <div align="center">
 <a href = 'https://skyline.github.com/rahidmondal/2021'>
@@ -39,15 +38,9 @@ I am also interested in cyber law and digital ethics.
 </div>
 
 
-<!-----------------------------------------------------Stats--------------------------------------------------------------->
-<div align ="center">
-    <h2> Stats </h2>
-        
-![Badge](https://github-readme-stats.vercel.app/api?username=rahidmondal)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=rahidmondal)
+
 
 
 
     
  <!------------------------------------------------------Thank------------------------------------------------------------------->   
- <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Thanks+For+Visiting+my+Github+Profil+&#x1F497+></p>
