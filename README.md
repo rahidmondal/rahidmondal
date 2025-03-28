@@ -5,7 +5,7 @@
 
 ## 🚀 What I'm Exploring:
 
-- 💻 Passionate about coding and building cool projects 
+- 💻 Passionate about software development and experimenting with project ideas
 - 📚 Learning and growing
 - 🌍 Fascinated by different cultures and languages
   
