@@ -9,7 +9,6 @@
 - 📚 Learning and growing
 - 🌍 Fascinated by different cultures and languages
   
-Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
 
 
