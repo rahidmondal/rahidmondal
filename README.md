@@ -10,7 +10,7 @@
 - 🌍 Fascinated by different cultures and languages
 
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahidmondal)](https://git.io/streak-stats)
 
