@@ -1,35 +1,26 @@
-# 🌟 Welcome to My GitHub! 🌟
-
-## Hey, I'm Rahid Mondal
-
-Computer Science Graduate  
-Curious · Systems-Minded · Always Learning
 
 
+# 🌱 Rahid Mondal
 
-## Focus  
-- Writing clean, purposeful code  
-- Exploring system design, backend development, and tooling  
-- Learning continuously — from frameworks to worldviews  
+CS Graduate · Systems Thinker · Always learning
 
 
+### Focus
 
-## How I Think  
-I approach technology with depth and direction — aiming to understand how things work, why they matter, where they come from, and how they evolve.  
+* Clean, purposeful code
+* System design & backend development
+* Building tools that last
+
+### Principles
+
+* Depth over hype
+* Ethics over shortcuts
+* Cooperation over competition
+
+### Beyond Code
+
+* Interested in culture, language, and systems
+* History buff, idea chaser, curious always
 
 
-## What I Value  
-- Cooperation over competition  
-- Thoughtful, ethical software design  
-- Open knowledge and inclusive spaces  
-- Tools that respect users and outlast trends  
-
-
-## Beyond Code  
-- Exploring the intersections of culture, language, and systems  
-- Drawn to history, ideas, and unsolved questions  
-- Observant, adaptable, and reflective  
-
-
-## Get in Touch  
-Always open to collaboration, exchange of ideas, or solving meaningful problems together.
+**Let’s connect** — open to ideas, projects, or deep conversations.
