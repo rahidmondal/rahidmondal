@@ -2,7 +2,7 @@
 
 # 🌱 Rahid Mondal
 
-CS Graduate · Systems Thinker · Always learning
+Always learning
 
 
 ### Focus
