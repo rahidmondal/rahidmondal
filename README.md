@@ -7,16 +7,32 @@ I value simplicity over cleverness, fundamentals over trends, and systems that a
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rahid-mondal">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="18" alt="LinkedIn" />
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+      width="18"
+      alt="LinkedIn"
+      style="fill:#0A66C2"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/r4xm">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="18" alt="X" />
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+      width="18"
+      alt="X"
+      style="fill:#000000"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rahidmondal@rahidmondal.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="18" alt="Email" />
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"
+      width="18"
+      alt="Email"
+      style="fill:#EA4335"
+    />
   </a>
 </p>
+
 
 > Build. Learn. Build again.
